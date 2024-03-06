@@ -1,5 +1,6 @@
 package Scrutin;
 
-public class Exception {
+public class Exception extends runtimeException
+{
 
 }
